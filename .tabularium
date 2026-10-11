@@ -1,5 +1,6 @@
 {
-  "name": "clickhouse",
+  "id": "clickhouse",
+  "name": "ClickHouse",
   "version": "0.2.0",
   "kind": "driver",
   "description": "ClickHouse columnar OLAP database driver",
