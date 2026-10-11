@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.2.1] - 2026-10-11
+
+### Bug Fixes
+
+- *(ci)* Release body carries only the released version's notes by @debba
+- *(query)* Execute SHOW and DESCRIBE without pagination wrapper (#5) by @vivekyarra in [#5](https://github.com/TabularisDB/tabularis-clickhouse-plugin/pull/5)
+- *(manifest)* Add stable id and human-readable display name by @debba
 ## [0.2.0] - 2026-08-06
 
 ### Bug Fixes
